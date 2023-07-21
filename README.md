@@ -10,4 +10,4 @@ Progress (Keyspace 66): 400000/73786976294838206464<br>
 Progress (Keyspace 66): 500000/73786976294838206464<br>
 Progress (Keyspace 66): 600000/73786976294838206464<br>
 Progress (Keyspace 66): 700000/73786976294838206464<br>
-you can change binary start and end in LFSR-V1 ti narrow the search range<br>
+you can change binary start and end in LFSR-V1 to narrow the search range<br>
