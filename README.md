@@ -1,5 +1,5 @@
 # LFSR-puzzle-66
-This is a work in progress with a some bugs I am already aware of, do not download, Do Not open issues<br>
+This is a work in progress with a some bugs I am already aware of, Do Not open issues<br>
 Note slow needs gpu acceleration (working on it)<br>
 Linear Feedback Shift Register search to solve puzzle 66<br>
 python3 LFSR-V2.py<br>
